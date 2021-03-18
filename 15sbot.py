@@ -14,7 +14,7 @@ The raid command isn't completed yet. But it _works_. I will update it as time g
 """
 
 
-bot = commands.Bot(description="UserDIO self-bot", command_prefix=">", self_bot=True)
+bot = commands.Bot(description="UserLiquid self-bot", command_prefix=">", self_bot=True)
 bot.remove_command('help')
 
 
