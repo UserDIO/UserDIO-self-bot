@@ -1,4 +1,4 @@
-# UserDIO-self-bot
+# UserLiquid-self-bot
 Self-Bot is against Discord TOS.
 <br>So there's multiple choices:
 1. Do something "illegal"
